@@ -3,11 +3,8 @@
     "filename": "showdown.min.js",
     "version": "0.3.1",
     "description": "A JavaScript port of Markdown",
-    "homepage":  "https://github.com/coreyti/showdown",
-    "keywords": [
-        "markdown",
-        "converter"
-    ],
+    "homepage": "https://github.com/coreyti/showdown",
+    "keywords": ["markdown", "converter"],
     "contributors": [{
         "name": "John Gruber"
     }, {
@@ -37,14 +34,12 @@
     }, {
         "name": "Pascal Deschênes"
     }],
-    "repositories": [
-        {
-            "type": "git",
-            "url":  "https://github.com/coreyti/showdown"
-        }
-    ],
+    "repositories": [{
+        "type": "git",
+        "url": "https://github.com/coreyti/showdown"
+    }],
     "licenses": [{
         "type": "BSD",
-        "url":  "https://github.com/coreyti/showdown/raw/master/license.txt"
+        "url": "https://github.com/coreyti/showdown/raw/master/license.txt"
     }]
 }
